@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\csharp_assignment\bin\Debug\netcoreapp2.0\csharp_assignment.deps.json
+C:\Users\Administrator\Desktop\csharp_assignment\bin\Debug\netcoreapp2.0\csharp_assignment.runtimeconfig.json
+C:\Users\Administrator\Desktop\csharp_assignment\bin\Debug\netcoreapp2.0\csharp_assignment.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\csharp_assignment\bin\Debug\netcoreapp2.0\csharp_assignment.dll
+C:\Users\Administrator\Desktop\csharp_assignment\bin\Debug\netcoreapp2.0\csharp_assignment.pdb
+C:\Users\Administrator\Desktop\csharp_assignment\obj\Debug\netcoreapp2.0\csharp_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\csharp_assignment\obj\Debug\netcoreapp2.0\csharp_assignment.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\csharp_assignment\obj\Debug\netcoreapp2.0\csharp_assignment.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\csharp_assignment\obj\Debug\netcoreapp2.0\csharp_assignment.dll
+C:\Users\Administrator\Desktop\csharp_assignment\obj\Debug\netcoreapp2.0\csharp_assignment.pdb
